@@ -1,4 +1,4 @@
-# Combination Sum in Java
+# Combination Sum
 
 ## Project Description
 
